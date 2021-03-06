@@ -18,6 +18,8 @@ This is a simple web project, depolyemnt can be an any web server or even local 
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requesta for review
+
 ## Copyright
 
 2021 Git.Training
