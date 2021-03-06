@@ -17,3 +17,7 @@ training demos.
 This is a simple web project, depolyemnt can be an any web server or even local file system.
 
 ## How to Contribute
+
+## Copyright
+
+2021 Git.Training
